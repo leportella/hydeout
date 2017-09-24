@@ -104,6 +104,8 @@ Scipy Latin America (ScipyLA)
 <h2> Open Source Contribution</h2>
 
 <ul>
+<li><a href="https://github.com/leportella/data-science-roadmap">Data Science Roadmap</a></li>
+<li><a href="https://github.com/rougeth/bottery">Bottery</a>Colaborator</li>
 <li> Django Simple History - Colaborator </li>
 <li> Restless </li>
 <li> Python Social App </li>
