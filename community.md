@@ -105,8 +105,8 @@ Scipy Latin America (ScipyLA)
 
 <ul>
 <li><a href="https://github.com/leportella/data-science-roadmap">Data Science Roadmap</a></li>
-<li><a href="https://github.com/rougeth/bottery">Bottery</a>Colaborator</li>
-<li> Django Simple History - Colaborator </li>
+<li><a href="https://github.com/rougeth/bottery">Bottery</a> - Collaborator</li>
+<li> Django Simple History - Collaborator </li>
 <li> Restless </li>
 <li> Python Social App </li>
 <li> Intermediate Python (translation to pt-br) </li>
@@ -132,3 +132,10 @@ Scipy Latin America (ScipyLA)
    And one of my blog posts was considered on a <a href="https://medium.com/@baditaflorin/top-100-python-articles-on-medium-until-jan-2017-23ca8bc5ee87"> list of top 100 Python posts on Medium</a> 
 until January 2017 :)
 </p>
+
+<p>
+  Mario told my story and a beautiful 
+<a href="https://medium.com/@sergiomarioq/pessoas-tecnologia-ca688e139e9e">blog post</a> about people that helped him
+run Python Brazil Conference on 2016.
+</a>
+
