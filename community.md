@@ -8,17 +8,17 @@ sidebar_link: true
 <h2> Talks and Workshops</h2>
 
 <p>
-  <a href="http://slides.com/leticiaportella/deck" target="_blank">
+  <a href="https://www.youtube.com/watch?v=Evbw0DI5pkc" target="_blank">
     Um belo dia para a ciência
-    <small>Sep/17 - Keynote - Python Sul - Caxias do Sul/RS</small>
   </a>
+    <small>Sep/17 - Keynote - Python Sul - Caxias do Sul/RS</small>
 </p>
 
 <p>
   <a href="http://slides.com/leticiaportella/analise-exploratoria-de-dados" target="_blank">
     Como analisar dados desconhecidos? Exemplos de Análise Exploratória Utilizando Dados Abertos de Alagoas
-    <small>Jun/17 - Data Science for Business Weekend - Maceió/Al</small>
   </a>
+    <small>Jun/17 - Data Science for Business Weekend - Maceió/Al</small>
 </p>
 
 <p>
@@ -34,29 +34,29 @@ sidebar_link: true
 <p>
   <a href="https://www.youtube.com/watch?v=sfbMb1yLRRY&list=PLDC3uVLxaEQ2QPRucgMwiK22QSgq0aIEJ&index=8" target="_blank">
     Programação Além do Código: Comunidade e Mulheres na Tecnologia
+  </a>
     <small>Oct/16 - Python Brasil 12 - Oct/2016</small>
-  <a>
 </p>
 
 <p>
   <a href="https://github.com/leportella/apresentacoes/blob/master/Voce_ja_se_desafiou_hoje_Ago16.pdf" target="_blank">
    Você já se desafiou hoje?
-    <small>Aug/2016 - Conéctar Experience - Ribeirão Preto/SP</small>
   <a>
+    <small>Aug/2016 - Conéctar Experience - Ribeirão Preto/SP</small>
 </p>
 
 <p>
   <a href="https://www.youtube.com/watch?v=yV3XFWfJ0TE&t=393s" target="_blank">
     Programação Além do Código: Comunidade e Mulheres na Tecnologia
-    <small>June/2016 - Caipyra - Ribeirão Preto</small>
   <a>
+    <small>June/2016 - Caipyra - Ribeirão Preto</small>
 </p>
 
 <p>
   <a href="http://www.thedevelopersconference.com.br/tdc/2016/florianopolis/trilha-python" target="_blank">
     Mulheres na Tecnologia - Você já se desafiou hoje?
-    <small> May/2016 - The Developer's Conference - Florianópolis/SC</small>
   </a>
+    <small> May/2016 - The Developer's Conference - Florianópolis/SC</small>
 </p>
 
 <br/>
@@ -67,36 +67,36 @@ sidebar_link: true
 <p>
   <a href="http://caipyra.python.org.br/">
     Caipyra
-    <small>Jun/2017 - Ribeirão Preto/SP</small>
   </a>
+    <small>Jun/2017 - Ribeirão Preto/SP</small>
 </p>
 
 <p>
   <a href="https://djangogirls.org/ribeiraopreto/">
     Django Girls Ribeirão Preto
-    <small>Jun/2017 - Ribeirão Preto/SP</small>
   </a>
+    <small>Jun/2017 - Ribeirão Preto/SP</small>
 </p>
 
 <p>
   <a href="https://djangogirls.org/florianopolis/">
     Django Girls Floripa
-    <small>Oct/2016 - Florianópolis/SC</small>
   </a>
+    <small>Oct/2016 - Florianópolis/SC</small>
 </p>
 
 <p>
   <a href="http://2016.pythonbrasil.org.br/">
     Python Brasil [12]
-    <small>Oct/2016 - Florianópolis/SC</small>
   </a>
+    <small>Oct/2016 - Florianópolis/SC</small>
 </p>
 
 <p>
   <a href="http://scipyla.org/conf/2016/">
-Scipy Latin America (ScipyLA)
-<small>May/2016 - Florianópolis/SC</small>
+    Scipy Latin America (ScipyLA)
   </a>
+<small>May/2016 - Florianópolis/SC</small>
 </p>
 
 <br/>
@@ -104,7 +104,7 @@ Scipy Latin America (ScipyLA)
 <h2> Open Source Contribution</h2>
 
 <ul>
-<li><a href="https://github.com/leportella/data-science-roadmap">Data Science Roadmap</a></li>
+<li><a href="https://github.com/leportella/data-science-roadmap"> Data Science Roadmap</a></li>
 <li><a href="https://github.com/rougeth/bottery">Bottery</a> - Collaborator</li>
 <li> Django Simple History - Collaborator </li>
 <li> Restless </li>
@@ -113,6 +113,11 @@ Scipy Latin America (ScipyLA)
 <li> Python Documentation (translation to pt-br and revisor)</li>
 <li> Serenata de Amor </li>
 <li> romslab </li>
+<li> pyBusinessses-BR </li>
+<li><a href="https://github.com/pythonbrasil/wiki"> Python Brazil Wiki </li>
+<li> cookiecutter-djangopackage </li>
+<li> scipyla2016 </li>
+<li> Python Brazil blog </li>
 </ul>
 
 
