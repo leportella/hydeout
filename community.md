@@ -4,8 +4,18 @@ title: Community
 sidebar_link: true
 ---
 
+<h2>What's happening right now?</h2> 
+<p> Now I am part of the boards of directos of the Associação Python Brasil (Python Brazil Association) as Director of Marketing and Public Relations.</p>
+
 
 <h2> Talks and Workshops</h2>
+
+<p>
+  <a href="https://github.com/leportella/tutorial-modulos-data-science" target="_blank">
+    Introdução aos Módulos de Análise de dados 
+  </a>
+    <small>Oct/17 - Workshop - PythonBrasil[13] - Belo Horizonte/MG</small>
+</p>
 
 <p>
   <a href="https://www.youtube.com/watch?v=Evbw0DI5pkc" target="_blank">
