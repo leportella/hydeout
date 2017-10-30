@@ -10,7 +10,6 @@ tags:
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
-[Original Text on Medium](https://medium.com/@leportella/de-ocean%C3%B3grafa-a-programadora-645b8d15a136)
 
 As I write this article, I am already talking from this world… the one we actually know so well. But I will try to explain, as best as I can, everything that I lived in this awesome week I spent in Portland at the Pycon 2016.
 

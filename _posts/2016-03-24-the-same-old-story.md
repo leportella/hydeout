@@ -10,8 +10,6 @@ tags:
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
-[Original Post on Medium](https://medium.com/@leportella/the-same-old-story-how-can-i-start-learning-how-to-code-41f980abb92f)
-
 Hello, everybody! :D
 
 On the last post I told everyone a little bit about my story, but now let’s begin the fun part! As I am studying and becoming a programmer I will try my best to pass along the fun and good things I am learning in the process, ok!?

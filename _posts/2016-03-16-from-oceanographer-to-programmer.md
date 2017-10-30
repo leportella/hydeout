@@ -10,8 +10,6 @@ tags:
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
-[Original Text on Medium](https://medium.com/@leportella/from-oceanographer-to-programmer-6a1e9118aadb)
-
 This week I was asked to tell a little about how I became programmer (or at least, I’m in the process). I wrote this text to tell a little bit more about my story.
 
 Let’s start from the beginning: I am oceanographer graduated from the Federal University of Santa Catarina (Brazil) in December 2013. Well, only that is usually enough to scare people. Oceanowhat?
