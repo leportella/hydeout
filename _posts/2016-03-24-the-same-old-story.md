@@ -4,6 +4,7 @@ title: "The same old story: how can I start learning to code?"
 categories:
   - Community
 tags:
+  - en
   - python
   - begginers
   - study

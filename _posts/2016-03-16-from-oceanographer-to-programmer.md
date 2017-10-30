@@ -4,6 +4,7 @@ title: "From oceanographer to programmer"
 categories:
   - Community
 tags:
+  - en
   - python
   - community 
   - pyladies
