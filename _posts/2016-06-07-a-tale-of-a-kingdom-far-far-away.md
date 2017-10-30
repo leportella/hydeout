@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "A tale of a kingdom far far away in another dimension"
-categories:
-  - Community
 tags:
   - python 
   - pycon2016 

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Como revisar código alheio?"
-categories:
-  - Community
 tags:
   - pt-br
   - python 

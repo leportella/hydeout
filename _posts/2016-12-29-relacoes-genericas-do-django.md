@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Como usamos Relações Genéricas do Django para adicionar comentários em instâncias de diferentes modelos"
-categories:
-  - Community
 tags:
   - pt-br
   - python

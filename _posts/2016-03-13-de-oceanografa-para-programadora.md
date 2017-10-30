@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "De oceanógrafa para programadora "
-categories:
-  - Community
 tags:
   - pt-br
   - python 

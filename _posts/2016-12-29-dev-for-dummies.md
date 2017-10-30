@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Dev for dummies"
-categories:
-  - Community
 tags:
   - en 
   - python
