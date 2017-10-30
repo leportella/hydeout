@@ -16,6 +16,10 @@ I got an invitation to talk on the [Caipyra](http://caipyra.python.org.br/) conf
 
 Well, 4 months after the Caipyra and almost 8 months after my career change, I write a little bit to tell you how is my life as a developer, in a kind of “dev for dummies” style.
 
+![](https://cdn-images-1.medium.com/max/800/1*LsqNMa8XW7myc7SneXZKrw.jpeg)
+
+*On Caipyra we went to the bar in the best way possible!*
+
 The first thing I would like to say is: git is confusing. I suffer with it. Very often I cry for someone to help me because my rebase went terribly wrong. I can’t understand (or remember) all those commands of amend, rebase, fetch, etc. It very confusing, but still, very necessary.
 
 Another thing I learned is that we spend too much time learning how to write code, but no one warned us that just as important as write code, is to read someone else’s code. And more than that: how to review a code. Very often, when reviewing a pull request, I get myself looking to it, with absolutely no idea how to test it. I read it, and it looks beautiful, but how am I supposed to test to see if it works? To me, it is still an exercise of patience and willpower. And there is even more questions that I can’t answer: are my doubts valid comments or just a noob ignorance? I lost count how many times I asked the pull request author in private and, depending on the answer, I would put my question in the public record. Yes, we need to deal with this kind of stuff.
@@ -29,5 +33,7 @@ At the Caipyra, I said I didn’t feel like a developer and people asked me why 
 Those are some of the numerous reflection and lessons I am learning in this moment of great challenges. I have gone through some refactoring, I have built an app from scratch, I have improved tests and played with generic relations. There were moments were I wanted to break the computer or cry in front of it. At this moments… have a break! A little coffee is good for you. Stop the work! Even if you have a tight deadline. Just stop for a second! I can now say that I am a developer. Still beginning and with little experience, but still, a developer.
 
 ![](https://cdn-images-1.medium.com/max/800/1*OfxO5mX-CfV3s4gSG9Et5g.jpeg)
+
+*Me in my new office :)*
 
 I would like to end my text by thanking all the feedbacks that I have received in my posts. I received several messages of people thanking me for telling a little bit about my history and that it helped them, in a way. A special thanks to my dear @seocam, Marco Rougeth, @joaojunior_jj and all my dear friends at Crave Food Services for all tenderness, learning, patience and fellowship.

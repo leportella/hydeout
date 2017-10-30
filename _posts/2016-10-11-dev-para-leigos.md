@@ -17,6 +17,10 @@ Pouco tempo depois de o texto circular pela internet, recebi um convite maravilh
 
 Pois bem, quase 4 meses após o Caipyra e quase 8 meses da minha mudança, escrevo pra contar como anda a vida de dev, numa espécie de “dev para leigos”.
 
+![](https://cdn-images-1.medium.com/max/800/1*LsqNMa8XW7myc7SneXZKrw.jpeg)
+
+*Pessoal do Caipyra foi pro bar na melhor condução possível!*
+
 A primeira coisa que eu gostaria de falar sobre a vida de dev é: git é confuso. Ainda sofro com ele e muitas vezes preciso chorar pra alguém me ajudar porque fiz algo errado em um rebase. Sofro pra entender os inúmeros comandos de amend, rebase, fetch, etc. É confuso demais, mas necessário.
 
 Outra coisa que aprendi é que gastamos muito tempo aprendendo a escrever código, mas ninguém me alertou de que tão importante quanto escrever código é aprender a ler código dos outros. E mais do que isso: aprender como revisar um código. Muitas vezes, ao corrigir um pull request, me pego olhando pra ele, sem a menor ideia de como testá-lo. Lendo ele, parece lindo, mas como vou saber se aquilo funciona? Pra mim, isso continua sendo um exercício de paciência e força de vontade. E ai vem aquela incerteza: minhas dúvidas são comentários válidos para serem inseridos na correção, ou simplesmente ignorância de noob? Perdi as contas de quantas vezes eu pergunto num chat privado e, dependendo da resposta, ai sim insiro a pergunta no devido local de registro. Sim, temos que aprender a lidar com isso.
@@ -31,6 +35,8 @@ Esses são algumas das inúmeras reflexões e lições que eu tenho aprendido ne
 
 
 ![](https://cdn-images-1.medium.com/max/800/1*OfxO5mX-CfV3s4gSG9Et5g.jpeg)
+
+*Eu no escritório novo :)*
 
 
 Gostaria de finalizar o texto agradecendo de coração todos feedbacks sobre os meus textos. Recebi diversas mensagens de pessoas agradecendo por ter contado a minha história e por ter ajudado-as de certa forma. Um agradecimento especial para o querido @seocam, @rougeth, @joaojunior_jj e todos os meus queridos companheiros da Crave Food Services por todo carinho, aprendizados, paciência e companheirismo.
