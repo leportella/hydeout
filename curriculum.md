@@ -7,12 +7,10 @@ sidebar_link: true
 <h1>Formation</h1>
 
 <h5>BSc.Oceanography</h5>
-<p>Federal University of Santa Catarina</p>
-<br>Mar/08 - Dez/13</br> 
+<p>[Mar/08 - Dec/13] Federal University of Santa Catarina</p>
 
 <h5>Master Degree in Oceanography</h5>
-<p>Federal University of Santa Catarina</p>
-<p>Mar/15 - present</p> 
+<p>[Mar/15 - present] Federal University of Santa Catarina</p>
 
 <br/>
 <br/>
@@ -24,6 +22,13 @@ sidebar_link: true
 
 <h5>[Jun/16 - May/17] Developer</h5>
 <p>Crave Food Services</p>
+
+Crave Food Services is an online platform and market that connects chefs, farmers, and food purveyors. The company offers food consulting services regarding, purchasing, farming, logistics, and reporting.
+
+Use Python on Backend Technologies like Django and Restless, Python on data science analysis and React+Redux for frontend applications.
+http://sourcewhatsgood.com/
+
+Some of the learnings and technologies we work with: http://medium.com/cravedev
 
 <h5>[Mar/16 - Jun/16] Developer</h5>
 <p>eCentry</p>
