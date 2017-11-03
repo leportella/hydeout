@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Leticia Portella 
 tagline:          ''
-description:      'My personal website'
+description:      'A little bit about me'
 url:              http://leportella.com 
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -17,7 +17,7 @@ author:
   name:           'Leticia Portella'
   url:            https://twitter.com/leleportella
 
-paginate:         5
+paginate:         10 
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
