@@ -9,7 +9,7 @@ tags:
 last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
-![](https://cdn-images-1.medium.com/max/1600/1*f50J1dLPBfWY1Hvdljfe9w.jpeg)
+![something](https://i.imgur.com/hy3paIE.jpg)
 
 Nesta semana me pediram pra contar um pouco sobre como eu virei programadora (ou pelo menos estou no processo). Eu escrevi esse texto para contar um pouco mais sobre essa história.
 
