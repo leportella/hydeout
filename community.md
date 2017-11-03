@@ -114,7 +114,7 @@ sidebar_link: true
 <h2> Open Source Contribution</h2>
 
 <ul>
-<li><a href="https://github.com/leportella/data-science-roadmap"> Data Science Roadmap</a></li>
+<li><a href="https://github.com/leportella/data-science-roadmap"> Data Science Roadmap</a> - Creator</li>
 <li><a href="https://github.com/rougeth/bottery">Bottery</a> - Collaborator</li>
 <li> Django Simple History - Collaborator </li>
 <li> Restless </li>
@@ -124,7 +124,7 @@ sidebar_link: true
 <li> Serenata de Amor </li>
 <li> romslab </li>
 <li> pyBusinessses-BR </li>
-<li><a href="https://github.com/pythonbrasil/wiki"> Python Brazil Wiki </li>
+<li><a href="https://github.com/pythonbrasil/wiki">Python Brazil Wiki</a> </li>
 <li> cookiecutter-djangopackage </li>
 <li> scipyla2016 </li>
 <li> Python Brazil blog </li>
