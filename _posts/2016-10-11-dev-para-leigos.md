@@ -15,7 +15,7 @@ Pouco tempo depois de o texto circular pela internet, recebi um convite maravilh
 
 Pois bem, quase 4 meses após o Caipyra e quase 8 meses da minha mudança, escrevo pra contar como anda a vida de dev, numa espécie de “dev para leigos”.
 
-![](https://cdn-images-1.medium.com/max/800/1*LsqNMa8XW7myc7SneXZKrw.jpeg)
+![](https://i.imgur.com/pLCxX23.jpg)
 
 *Pessoal do Caipyra foi pro bar na melhor condução possível!*
 
@@ -32,7 +32,7 @@ No Caipyra, disse que não me sentia uma dev e me perguntaram o por que não. Um
 Esses são algumas das inúmeras reflexões e lições que eu tenho aprendido nesse momento de aprendizado intenso. Já passei por algumas refatorações, já construi uma app do zero, já melhorei testes, já brinquei com generic relations. Já quis quebrar o computador muitas vezes e já quis chorar na frente dele. É nessas horas que o cafézinho faz bem. Pare! Mesmo que você esteja com o prazo apertado. Pare! Hoje, consigo falar que me considero uma dev. Iniciante e inexperiente, mas ainda sim, uma dev.
 
 
-![](https://cdn-images-1.medium.com/max/800/1*OfxO5mX-CfV3s4gSG9Et5g.jpeg)
+![](https://i.imgur.com/oXsFRqQ.jpg)
 
 *Eu no escritório novo :)*
 

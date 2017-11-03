@@ -14,7 +14,7 @@ I got an invitation to talk on the [Caipyra](http://caipyra.python.org.br/) conf
 
 Well, 4 months after the Caipyra and almost 8 months after my career change, I write a little bit to tell you how is my life as a developer, in a kind of “dev for dummies” style.
 
-![](https://cdn-images-1.medium.com/max/800/1*LsqNMa8XW7myc7SneXZKrw.jpeg)
+![](https://i.imgur.com/pLCxX23.jpg)
 
 *On Caipyra we went to the bar in the best way possible!*
 
@@ -30,7 +30,7 @@ At the Caipyra, I said I didn’t feel like a developer and people asked me why 
 
 Those are some of the numerous reflection and lessons I am learning in this moment of great challenges. I have gone through some refactoring, I have built an app from scratch, I have improved tests and played with generic relations. There were moments were I wanted to break the computer or cry in front of it. At this moments… have a break! A little coffee is good for you. Stop the work! Even if you have a tight deadline. Just stop for a second! I can now say that I am a developer. Still beginning and with little experience, but still, a developer.
 
-![](https://cdn-images-1.medium.com/max/800/1*OfxO5mX-CfV3s4gSG9Et5g.jpeg)
+![](https://i.imgur.com/oXsFRqQ.jpg)
 
 *Me in my new office :)*
 
