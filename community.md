@@ -11,6 +11,13 @@ sidebar_link: true
 <h2> Talks and Workshops</h2>
 
 <p>
+  <a href="http://sudocast.com.br/portfolio-items/ep-0006-python/" target="_blank">
+    Participation on Sudocast Episode 06 - Python: Pessoas > Tecnologia 
+  </a>
+    <small>Nov/17 - Podcast - Sudocast </small>
+</p>
+
+<p>
   <a href="https://github.com/leportella/tutorial-modulos-data-science" target="_blank">
     Introdução aos Módulos de Análise de dados 
   </a>
