@@ -7,15 +7,7 @@ sidebar_link: true
 <h2>What's happening right now?</h2> 
 <p> Now I am part of the boards of directos of the Associação Python Brasil (Python Brazil Association) as Director of Marketing and Public Relations.</p>
 
-
 <h2> Talks and Workshops</h2>
-
-<p>
-  <a href="http://sudocast.com.br/portfolio-items/ep-0006-python/" target="_blank">
-    Participation on Sudocast Episode 06 - Python: Pessoas > Tecnologia 
-  </a>
-    <small>Nov/17 - Podcast - Sudocast </small>
-</p>
 
 <p>
   <a href="https://github.com/leportella/tutorial-modulos-data-science" target="_blank">
@@ -79,6 +71,25 @@ sidebar_link: true
 <br/>
 
 
+<h2>Podcasts</h2>
+
+<p>
+  <a href="http://podcast.datascience.pizza/hello-world/" target="_blank">
+    Pizza de Dados - Episode 01 - Hello World 
+  </a>
+    <small>Nov/17 - Podcast - Sudocast </small>
+</p>
+
+<p>
+  <a href="http://sudocast.com.br/portfolio-items/ep-0006-python/" target="_blank">
+    Participation on Sudocast Episode 06 - Python: Pessoas > Tecnologia 
+  </a>
+    <small>Nov/17 - Podcast - Sudocast </small>
+</p>
+
+
+
+
 <h2> Things I helped organize</h2>
 
 <p>
@@ -93,6 +104,13 @@ sidebar_link: true
     Django Girls Ribeirão Preto
   </a>
     <small>Jun/2017 - Ribeirão Preto/SP</small>
+</p>
+
+<p>
+  <a href="https://www.facebook.com/balancogeralinteriorsp/videos/1797577800484014/">
+     Sprint of Project <a href="https://serenatadeamor.org/">Operação Serenata de Amor</a>
+  </a>
+    <small>Nov/2016 - Ribeirão Preto/SP</small>
 </p>
 
 <p>
