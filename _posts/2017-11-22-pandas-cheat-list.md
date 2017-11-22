@@ -22,7 +22,7 @@ This way, I really wanted a place to gather my tricks that I really don't want t
 * [How to list available columns on a DataFrame](#column-names)
 * [How to make multiple filters](#multiple-filters)
 * [How to iterate over a DataFrame](#iterate)
-* [How to count unique occurences on a DataFrame column](#unique-ocurrences)
+* [How to count the ocurrences of each unique values on a DF column](#unique-ocurrences)
 * [How to save a DataFrame by chunks](#save-by-chunks)
 * [A groupby example](#group-by-example)
 * [How to fill values on missing months](#missing-months)
@@ -50,7 +50,7 @@ for item, row in df.iterrows():
   print row()
 ```
 
-<h2 id='unique-ocurrences'>How to count unique ocurrences on a DataFrame column</h2>
+<h2 id='unique-ocurrences'>How to count the ocurrences of each unique values on a DF column</h2>
 
 ```python
 df[column].value_counts()
@@ -58,7 +58,7 @@ df[column].value_counts()
 # get indexes
 df[column].value_counts().index.tolist()
 
-# get values
+# get values of occurrences
 df[column].value_counts().values.tolist()
 ```
 
