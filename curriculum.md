@@ -18,11 +18,11 @@ sidebar_link: true
 
 <h1 id='formation'>Formation</h1>
 
-<h5>BSc.Oceanography</h5>
+<h5>BSc. Oceanography</h5>
 <p>[Mar/08 - Dec/13] Federal University of Santa Catarina</p>
 
-<h5>Master Degree in Oceanography</h5>
-<p>[Mar/15 - present] Federal University of Santa Catarina</p>
+<h5>MSc. Oceanography</h5>
+<p>[Mar/15 - Nov/17] Federal University of Santa Catarina</p>
 
 
 Master Degree on Oceanography, Dynamic and Management of Coastal Systems by Federal University of Santa Catarina, SC, Brazil.
