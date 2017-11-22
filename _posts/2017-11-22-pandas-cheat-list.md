@@ -12,37 +12,45 @@ last_modified_at: 2017-03-09T14:25:52-05:00
 ---
 
 
-Sometimes I get just really lost will all available commands and tricks one can make on pandas. 
+Sometimes I get just really lost with all available commands and tricks one can make on pandas. 
 This way, I really wanted a place to gather my tricks that I really don't want to forget.
 
 ![](https://media.giphy.com/media/14aUO0Mf7dWDXW/giphy.gif)
 
+# Summary
 
+* [How to list available columns on a DataFrame](#column-names)
+* [How to make multiple filters](#multiple-filters)
+* [How to iterate over a DataFrame](#iterate)
+* [How to count unique occurences on a DataFrame column](#unique-ocurrences)
+* [How to save a DataFrame by chunks](#save-by-chunks)
+* [A groupby example](#group-by-example)
+* [How to fill values on missing months](#missing-months)
+* [How to filter column elements on a list](#filter-elements-by-list)
 
 # My Pandas Cheat List
 
 
-## How to list a DataFrame column names?
+<h2 id='column-names'>How to list available columns on a DataFrame</h2>
 
 ```python
 df.columns.values
 ```
 
-
-## Chaining Filtering
+<h2 id='multiple-filters'>How to make multiple filters</h2>
 
 ```python
 df[(df.column > value1) & (df.column < value2)]
 ```
 
-## Row iteration
+<h2 id='iterate'>How to iterate over a Dataframe</h2>
 
 ```python
 for item, row in df.iterrows():
   print row()
 ```
 
-## Series count unique ocurrences
+<h2 id='unique-ocurrences'>How to count unique ocurrences on a DataFrame column</h2>
 
 ```python
 df[column].value_counts()
@@ -54,7 +62,7 @@ df[column].value_counts().index.tolist()
 df[column].value_counts().values.tolist()
 ```
 
-## Save a dataframe by chunks
+<h2 id='save-by-chunks'>How to save a DataFrame by chunks</h2>
 
 ```python
 df = pd.DataFrame([[0, 1, 2], [3, 4, 5], [6, 7, 8], [9, 10, 11]])
@@ -69,24 +77,29 @@ df_final = pd.read_csv('./teste1.csv')
 df_final.head()
 ```
 
-## Use a groupby
+<h2 id='group-by-example'>A groupby example</h2>
 
 ```python
-df_grouped = df.groupby(by=['first_column', 'second_column'])['third_column'].mean().reset_index(name='mean_values_grouped')
+df_grouped = df.groupby(
+        by=['first_column', 'second_column']
+    )['third_column'].mean().reset_index(name='mean_values_grouped')
 ```
 
-## Fill blank spaces in continuous data
+<h2 id='missing-months'>How to fill values on missing months</h2>
 
 If you have a dataframe with 2 columns: year and month. But data is not available for all months, so you need to enter missing months on 
 your dataframe with empty values on them.
 
 ```python
-
 # Original data with months not available
 df1 = pd.DataFrame({
-    'month': [1, 2, 4, 5, 6, 8, 9, 10, 11, 12, 1, 2, 3, 4, 5, 8, 9, 10, 11, 12],
-    'year': [2011, 2011, 2011, 2011, 2011, 2011, 2011, 2011, 2011, 2011, 2012, 2012, 2012, 2012, 2012, 2012, 2012, 2012, 2012, 2012],
-    'qty': [5, 7, 3, 6, 7, 8, 3, 5, 7, 10, 12,5, 7, 8, 1, 3, 5, 7, 8, 20]
+    'month': [1, 2, 4, 5, 6, 8, 9, 10, 11, 12, 1, 2, 3, 4,
+              5, 8, 9, 10, 11, 12],
+    'year': [2011, 2011, 2011, 2011, 2011, 2011, 2011, 2011,
+             2011, 2011, 2012, 2012, 2012, 2012, 2012, 2012, 
+             2012, 2012, 2012, 2012],
+    'qty': [5, 7, 3, 6, 7, 8, 3, 5, 7, 10, 12,
+            5, 7, 8, 1, 3, 5, 7, 8, 20]
 })
 
 # List of all months
@@ -107,5 +120,8 @@ Now we can just merge both dataframes with an outer join:
 pd.merge(years_months, df1, how='outer')
 ```
 
+<h2 id='filter-elements-by-list'>How to filter column elements on a list</h2>
 
-
+```python
+df[df['A'].isin([3, 6])]
+```
