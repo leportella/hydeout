@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Um agradecimento e a finalização de uma fase"
+categories:
+  - pt-br
 tags:
   - pt-br
   - geral

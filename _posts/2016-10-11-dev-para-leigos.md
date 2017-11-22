@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Dev para leigos"
+categories:
+  - pt-br
 tags:
   - pt-br
   - python

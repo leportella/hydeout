@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Meu primeiro ano como dev"
+categories:
+  - pt-br
 tags:
   - pt-br
   - python
