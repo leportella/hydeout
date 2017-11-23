@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "The same old story: how can I start learning to code?"
+categories:
+  - english
 tags:
   - en
   - python

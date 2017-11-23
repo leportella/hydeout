@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "From oceanographer to programmer"
+categories:
+  - english 
 tags:
   - en
   - python

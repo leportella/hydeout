@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Dev for dummies"
+categories:
+  - english
 tags:
   - en 
   - python

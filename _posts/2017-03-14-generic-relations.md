@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How we used generic relations to add comments to model instances"
+categories:
+  - english
 tags:
   - en 
   - python

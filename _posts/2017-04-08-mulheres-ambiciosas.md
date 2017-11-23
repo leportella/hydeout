@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Mulheres ambiciosas"
+categories:
+  - pt-br 
 tags:
   - pt-br
   - career 
@@ -12,7 +14,7 @@ last_modified_at: 2017-03-09T14:25:52-05:00
 
 As fofíssimas Pyladies Salvador pediram um texto para estrear o blog delas e me falaram que iam publicar esse texto no dia da mulher. 
 Refleti muito a respeito do que escrever, do que eu poderia agregar de alguma forma nesse dia que tem tanto significado e resolvi que gostaria de 
-conversar com vocês sobre ambição. IIQuão ambiciosa você se considera**?
+conversar com vocês sobre ambição. **Quão ambiciosa você se considera**?
 
 ![](https://cdn-images-1.medium.com/max/600/1*UjX-X_DSnP4ARLbDVqIDyw.gif)
 
@@ -39,6 +41,6 @@ Vamos parar de dizer que “nós conseguimos o resultado” quando quem consegui
 Sim, existe o medo… o medo de não conseguir, de fazer a escolha errada, o medo de errar, de fracassar, de ser uma fraude, de ser julgada e medo de ser uma péssima mãe/filha/esposa. Todos esses medos existem, são reais e são, muitas vezes, paralisantes. Mas a falta de confiança pode ser uma profecia que se cumpre sozinha. Meu convite aqui hoje é para você refletir sobre isso e tentar mudar essa história. Nem que seja uma conquista de cada vez. Que tal chegar para alguém que você admira e dizer: “eu conquistei isso” ou “eu fiz isso sozinha e estou orgulhosa do que consegui”. Se você se sentir um pouco mais orgulhosa e confiante, acho que terei conquistado o que eu queria.
 
 ![](https://cdn-images-1.medium.com/max/800/1*UHIOet8XtvG-GZuPMdjpAw.gif)
-**Se você se orgulhar de alguma coisa que você fez ou conquistou… eu consegui o que eu queria : **
+**Se você se orgulhar de alguma coisa que você fez ou conquistou… eu consegui o que eu queria :)**
 
 E então eu te pergunto novamente... **aonde você quer chegar**?

@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Como contribuir para um projeto open-source pla primeira vez sem escrever código"
+title: "Como contribuir para um projeto open-source pela primeira vez sem escrever código"
+categories:
+  - pt-br
 tags:
   - pt-br
   - open-source

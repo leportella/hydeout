@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Are we getting the wrong career advises?"
+categories:
+  - english
 tags:
   - en 
   - career 

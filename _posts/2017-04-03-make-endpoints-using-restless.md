@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How to make simple endpoints with Django using Restless"
+categories:
+  - english
 tags:
   - en 
   - python

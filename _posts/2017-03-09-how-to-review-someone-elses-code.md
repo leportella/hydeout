@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How to review someone else's code"
+categories:
+  - english
 tags:
   - en
   - python

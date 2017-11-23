@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My first year as a developer"
+categories:
+  - english
 tags:
   - en 
   - python
@@ -47,7 +49,7 @@ I walked in a friendly environment for beginners with a lot of nice people. Ever
 
 The whole team was so certain that I could make it and they were all so patient that it made me grow as a professional and as a person. My code started to become more and more complex and my code review, a little more rigorous. I started to believe that I could call myself a developer.
 
-![](https://cdn-images-1.medium.com/max/800/1*LEfoslhsQTRcopJPLHauiQ.gif)
+![](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
 *I you are like me, and don’t think you are a developer, please do the best test possible [here](http://amiarealdev.com/#).
 
 The environment was so good for learning that went well on the backend and started to work with frontend in February (feb/17) with React, Javascript, etc. A new area with new challenges.
