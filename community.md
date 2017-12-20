@@ -5,7 +5,8 @@ sidebar_link: true
 ---
 
 <h2>What's happening right now?</h2> 
-<p> Now I am part of the boards of directos of the Associação Python Brasil (Python Brazil Association) as Director of Marketing and Public Relations.</p>
+<p> Now I am part of the boards of directos of the Associação Python Brasil (Python Brazil Association) as Director of Marketing and Public Relations. 
+I also have a Podcast called Pizza de Dados along with two friends.</p>
 
 <h2> Talks and Workshops</h2>
 
@@ -74,10 +75,10 @@ sidebar_link: true
 <h2>Podcasts</h2>
 
 <p>
-  <a href="http://podcast.datascience.pizza/hello-world/" target="_blank">
-    Pizza de Dados - Episode 01 - Hello World 
+  <a href="http://podcast.datascience.pizza/" target="_blank">
+    Pizza de Dados - Founder and Co-Host
   </a>
-    <small>Nov/17 - Podcast - Sudocast </small>
+    <small> Podcast </small>
 </p>
 
 <p>
@@ -174,8 +175,12 @@ until January 2017 :)
 </p>
 
 <p>
-  Mario told my story and a beautiful 
+  Mario told my story in a beautiful 
 <a href="https://medium.com/@sergiomarioq/pessoas-tecnologia-ca688e139e9e">blog post</a> about people that helped him
 run Python Brazil Conference on 2016.
 </a>
+
+<p>
+  Rodrigo Medeiros add me and my Podcast Pizza de Dados in <a href="https://medium.com/datavizbr/lista-colaborativa-de-quem-seguir-nas-redes-sociais-em-2018-sobre-big-data-data-science-f776dbf333b3" target="_blank">this list</a> of people from big data, data science, data journalism and data visualization.
+</p>
 
