@@ -117,6 +117,15 @@ Worked with geomorphologic and sedimentology analysis in a national reservoir th
 
 <h1 id='courses'>Courses</h1>
 
+<h5>[2017] Machine Learning</h5>
+Workshop given by Andre Ng by University of Stanford and Coursera 
+
+<h5>[2017] Machine Learning</h5>
+Workshop given by Hekima
+
+<h5>[2017] Data Engineer</h5>
+Workshop given by Hekima
+
 <h5>[2016] Introduction to Unit Testing in Python with Pytest</h5>
 Tutorial given on Pycon 2016 by Michael Tom-Wing and Christie Wilson.
 
