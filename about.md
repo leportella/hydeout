@@ -7,7 +7,7 @@ sidebar_link: true
 Hey there! Welcome!
 
 
-Well, I am an oceanographer that discovered to be passionate about programming (More about this [here](http://leportella.com/2016/03/16/from-oceanographer-to-programmer.html)).
+Well, I am an oceanographer that discovered to be passionate about programming (More about this [here](http://leportella.com/pt-br/2016/03/13/de-oceanografa-para-programadora.html)).
 
 I discovered that programming is something that I like and I can learn with a certain amount of easiness. 
 
@@ -27,7 +27,9 @@ Ice and Fire and all their theories.
 I like to write as much as I like to read. So, to help young passionate programmers, I write several blog posts to share things I am learning and my life experiences. 
 Most (if not all) of them you can find here.
 
-Now I am part of the awesome data science team of <a href="http://softplan.com.br" target="_blank">Softplan</a> in Florianópolis, South of Brazil.
+Lately, I started a brazilian podcast focusing on data science called [Pizza de Dados](http://podcast.datascience.pizza) or, in english, Data Pizza.
+It's been a crazy journey that I never saw coming! But now that's here, I am so happy to do this.
 
+I am also part of the awesome data science team of <a href="http://softplan.com.br" target="_blank">Softplan</a> in Florianópolis, South of Brazil.
 
 ![](https://i.imgur.com/gVatGhc.jpg)
