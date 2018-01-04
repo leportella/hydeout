@@ -45,7 +45,7 @@ $layout-reverse: false !default;
 $link-color: #268bd2 !default;
 ```
 
-To override these variables, create your own `assets/css/main.scss` file.
+Too override these variables, create your own `assets/css/main.scss` file.
 Define your own variables, then import in Hydeout's SCSS, like so:
 
 ```scss
