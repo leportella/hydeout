@@ -110,11 +110,11 @@ Basicamente temos uma variável y (*store_profit*) que tem um hitograma de cauda
 
 ![](https://i.imgur.com/ygXccBS.png)
 
-Duas variáveis independentes distribuda em torno de um centróide (*products in stock* e *product rating*):
+Duas variáveis independentes distribudas em torno de um centróide (*products in stock* e *product rating*):
 
 ![](https://i.imgur.com/EvbWMC5.png)
 
-E mais uma variável categrica (*business_type*) e duas variáveis que são números internos, sem padrão de distribuição.
+E mais uma variável categórica (*business*) e duas variáveis que são números internos, sem padrão de distribuição.
 
 O Dataframe resultante:
 
