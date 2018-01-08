@@ -130,7 +130,7 @@ Uma forma simples de identificar *outliers* é assumir que o dado tem uma determ
 Gaussiana). Uma vez que assumimos isso, podemos definir uma "forma" para o dado, e definir que observações que ficam 
 longe desse formato como anomalias.
 
-No Sklearn temos a técnica do *covariance.EllipticEnvelope* que estima uma covariância robusta ao dado, adaptando uma 
+No Sklearn temos a técnica do ([*covariance.EllipticEnvelope*](http://scikit-learn.org/stable/modules/generated/sklearn.covariance.EllipticEnvelope.html)) que estima uma covariância robusta ao dado, adaptando uma 
 elipse na parte central da nuvem de dados e ignorando o fora desse centro.
 
 Vamos usar o Elliptic Envelope para avaliar nossos dados considerando que temos 1% de contaminação. Para facilitar a compreensão, vamos utilizar apenas as variáveis *products_ind_stock* e *product_rating* como as variáveis no nosso X:
