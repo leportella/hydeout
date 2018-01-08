@@ -97,6 +97,11 @@ dados maiores que F1 e F3 são chamados de *outliers* longínquos ("*far out out
 
 ![](http://flowingdata.com/wp-content/uploads/2008/02/box-plot-explained.gif)
 
+## Estudo de Caso
+
+Um estudo de caso detalhado pode ser visto [aqui](http://leportella.com/pt-br/2018/01/08/um-breve-estudo-sobre-outliers-2.html)!
+
+
 ## Referências
 
 Barnett, V. 1978. The study of Outliers: purpose and model. Appl. Statics, 27, no.3, pp.242-250.
