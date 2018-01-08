@@ -84,6 +84,7 @@ Fascinante, não?
 Tukey (1977) definiu o conceito de outliers via boxplots, que é um dos jeitos mais simples de se detectar outliers de forma 
 visual para uma variável. A metodologia consiste na identificação via quartis. Dado que o quartil de 25% (Q1)  o valor em que 25% dos dados estão abaixo dele e o quartil 75% (Q3) é o valor onde 25% dos dados estão acima desse valor, temos duas "cercas" definidas por Tukey (1977):
 
+Dado o Range Inter-quartil (IQR - Inter-quartile range)
 `IQR = Q3 - Q1`
 
 `f1 = Q1 - 1,5IQR` e `f3 = Q3 + 1,5IQR`
