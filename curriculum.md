@@ -55,6 +55,17 @@ to 2cm.s − 1 wich represents 10% of typical currents on the bay.
 <h1 id='positions'>Positions</h1>
 
 <h5>[Jun/17 - present] Data Scientist and Developer - Softplan</h5>
+Working with development and data science in the legal area.
+
+Technologies include, but are not limited to:
+* Django
+* Predictive modelling and machine learning
+* DevOps (Terraform, AWS, Azure, Docker)
+* Crawling
+* MongoDB
+* Neo4J
+* PostgreSQL
+* NLP
 
 <h5>[Jun/16 - May/17] Developer - Crave Food Services</h5>
 
@@ -117,6 +128,9 @@ Worked with geomorphologic and sedimentology analysis in a national reservoir th
 
 <h1 id='courses'>Courses</h1>
 
+<h5>[2018] MongoDB Basics</h5>
+MongoDB Basics by Mongo University
+
 <h5>[2017] Machine Learning</h5>
 Workshop given by Andre Ng by University of Stanford and Coursera 
 
@@ -162,7 +176,8 @@ Completed the First Certificate in English by University of Cambridge on Decembe
 * Restless
 * Git 
 * GitHub
-* Data Analysis Modules (Numpy, Scipy, Seaborn, Matplotlib, Pandas)
+* PythonData Analysis Modules (Numpy, Scipy, Seaborn, Matplotlib, Pandas)
+* Machine Learning (Sklearn)
 * Delft3D-FLOW
 * Matlab/Octave
 * Ubuntu/Linux
@@ -175,4 +190,3 @@ Completed the First Certificate in English by University of Cambridge on Decembe
 * CSS
 * React
 * Redux
-
