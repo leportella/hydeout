@@ -4,11 +4,23 @@ title: Community
 sidebar_link: true
 ---
 
-<h2>What's happening right now?</h2> 
+## Summary
+
+* [What's happening right now?](#now)
+* [Talks and Workshops](#talks)
+* [Podcasts](#podcasts) 
+* [Things I helped organize](#organization)
+* [Open Source Contribution](#open-source)
+* [Other things...](#other)
+* [What someone wrote about me s2...](#someone-wrote)
+
+
+
+<h2 id="now">What's happening right now?</h2> 
 <p> Now I am part of the boards of directos of the Associação Python Brasil (Python Brazil Association) as Director of Marketing and Public Relations. 
 I also have a Podcast called Pizza de Dados along with two friends.</p>
 
-<h2> Talks and Workshops</h2>
+<h2 id="talks"> Talks and Workshops</h2>
 
 <p>
   <a href="http://slides.com/leticiaportella/o-que-voce-faria-se-tivesse-medo#/" target="_blank">
@@ -79,7 +91,7 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 <br/>
 
 
-<h2>Podcasts</h2>
+<h2 id="podcasts">Podcasts</h2>
 
 <p>
   <a href="http://podcast.datascience.pizza/" target="_blank">
@@ -96,9 +108,14 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 </p>
 
 
+<h2 id="organization"> Things I helped organize</h2>
 
-
-<h2> Things I helped organize</h2>
+<p>
+  <a href="http://pythonsul.org/">
+    Python Sul - Organizer
+  </a>
+    <small>Apr/18 -Florianópolis/SC</small>
+</p>
 
 <p>
   <a href="http://caipyra.python.org.br/">
@@ -144,7 +161,7 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 
 <br/>
 
-<h2> Open Source Contribution</h2>
+<h2 id="open-source"> Open Source Contribution</h2>
 
 <ul>
 <li><a href="https://github.com/leportella/data-science-roadmap"> Data Science Roadmap</a> - Creator</li>
@@ -166,7 +183,16 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 
 <br/>
 
-<h2> What someone wrote about me s2...</h2>
+<h2 id="other">Other things...</h2>
+
+<p>
+    Mentor at Django Girls São José
+    <small>Mar/18 - São José/SC</small>
+</p>
+
+<br/>
+
+<h2 id="someone-wrote"> What someone wrote about me s2...</h2>
 
 <p>
     On March17, the Cheesecake Labs
