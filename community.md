@@ -11,6 +11,13 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 <h2> Talks and Workshops</h2>
 
 <p>
+  <a href="http://slides.com/leticiaportella/o-que-voce-faria-se-tivesse-medo#/" target="_blank">
+    O que você faria se não tivesse medo? 
+  </a>
+    <small>Dez/17 - 4o Open House Pesquisa e Desenvolvimento da Rede Globo - Rio de Janeiro/RJ</small>
+</p>
+
+<p>
   <a href="https://github.com/leportella/tutorial-modulos-data-science" target="_blank">
     Introdução aos Módulos de Análise de dados 
   </a>
