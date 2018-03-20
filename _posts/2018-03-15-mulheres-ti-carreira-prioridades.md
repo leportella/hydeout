@@ -19,9 +19,9 @@ prioridade para cada gênero e o *por quê* é prioridade, vamos relembrar algun
 
 ## Realidade da pesquisa e do mercado
 
-Antes de começarmos a falar da qeustão especfica da prioridade de carreira em cada gênero, temos que lembrar que a maioria das 
-pessoas que responderam a pesquisa são homens, héteros, brancos e sem filhos. Algumas discusses interessantes estão rolando sobre 
-como a pesquisa não representa o atual mercado de trabalho e como é enviesada 
+Antes de começarmos a falar da questão especfica da prioridade de carreira em cada gênero, temos que lembrar que a maioria das 
+pessoas que responderam a pesquisa são homens, héteros, brancos e sem filhos. Algumas discussões interessantes estão rolando sobre 
+como a pesquisa não representa o mercado de trabalho e como é enviesada 
 [aqui](https://twitter.com/elibelly/status/973510614827044864), 
 [aqui](https://twitter.com/lukaseder/status/973468605533884417) e 
 [aqui](https://twitter.com/dan_abramov/status/973560630790774784). Essa discussão sobre o viés da pesquisa não vai ser abordada aqui, mas que é de extrema relevância.
@@ -61,7 +61,7 @@ relevantes, seguidos do **preconceito pelo gênero no âmbiente de trabalho** e
 
 ## Prioridades na carreira
 
-Ok, dado que você sabe dessas duas informações vamos analisar agora as prioridades de cada gênero. De 54536 respostas, 19% dos 
+Ok, dado que você sabe dessas informações vamos analisar agora as prioridades de cada gênero. De 54536 respostas, 19% dos 
 homens priorizaram **compensação e benefícios oferecidos** e 17,6%, as linguagens, tecnologias e frameworks utilizados 
 no trabalho.
 Ou seja, as maiores prioridades masculinas são direcionadas para coisas palpáveis, benefícios que serão aproveitados no curto 
