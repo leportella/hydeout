@@ -75,7 +75,10 @@ Graças a uma comunidade ativa e maravilhosa, temos hoje inúmeros eventos locai
 além de um encontro anual que *vale o investimento*! 
 
 Invista seu tempo e dinheiro para participar de encontros, sejam eles locais, regionais ou nacionais. Ajude a comunidade, 
-palestre sobre o que você aprendeu e ajude quem está começando. Acredite, essas pessoas valem todo o esforço <3
+palestre sobre o que você aprendeu e ajude quem está começando. Acredite, essas pessoas valem todo o esforço <3. 
+
+Se quiser saber um pouco mais do porque a comunidade Python é um bom lugar para investir seu tempo veja [esse vídeo](https://www.youtube.com/watch?v=j3GMjqj4fXA&t=35s) que o Jojo fez 
+durante a Python Sul 2018 em Florianópolis.
 
 Alguns dos eventos que você pode participar são estes listados abaixo, mas muitos outros estão espalhados pelo Brasil!
 
@@ -87,6 +90,8 @@ Alguns dos eventos que você pode participar são estes listados abaixo, mas mui
 * [Pycon Amazônia](http://amazonia.python.org.br/)
 * [Caipyra](http://caipyra.python.org.br/)
 
+
+E o Marco Rougeth fez [um calendário irado](https://python.org.br/eventos/) pra gente visualizar os eventos que estão rolando no Brasil.
 
 ----------
 
