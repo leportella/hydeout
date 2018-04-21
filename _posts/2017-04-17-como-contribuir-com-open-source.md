@@ -63,7 +63,7 @@ No meu caso, eu expliquei que tive problemas, mostrei aonde consegui ajuda e me 
 ![](https://i.imgur.com/m4FqAxB.png)
 **[Minha issue aberta no social-app-django](https://github.com/python-social-auth/social-app-django/issues/44) explica o problema, mostra onde encontrei a solução e me digo disposta a ajudar**
 
-pesar de não ter recebido resposta depois de 8 dias, decidi continuar minha empreitada.
+Apesar de não ter recebido resposta depois de 8 dias, decidi continuar minha empreitada.
 
 ## Criando um fork
 

@@ -27,6 +27,7 @@ This way, I really wanted a place to gather my tricks that I really don't want t
 * [A groupby example](#group-by-example)
 * [How to fill values on missing months](#missing-months)
 * [How to filter column elements on a list](#filter-elements-by-list)
+* [How to change a Series type?](#change-series-type)
 
 # My Pandas Cheat List
 
@@ -124,4 +125,13 @@ pd.merge(years_months, df1, how='outer')
 
 ```python
 df[df['A'].isin([3, 6])]
+```
+
+<h2 id='change-series-type'>How to change a Series type?</h2>
+
+```python
+import pandas as pd
+
+serie = pd.Series([1, 2, 3, 4])
+series.astype(float)
 ```
