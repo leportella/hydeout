@@ -30,7 +30,7 @@ Eu fiz um exemplo básico e limpo da planilha que você pode ver e copiar
 Tarefas especficas que precisavam ser feitas iam para o Trello, mas acredito que 90% do meu trabalho era olhar e gerenciar 
 a planilha.
 
-Vamos falar ponto por ponto do que tínhamos na planilha.
+Vamos falar ponto por ponto do que tínhamos que gerenciar.
 
 ### Informações Gerais
 
@@ -40,17 +40,19 @@ quantas pessoas são esperadas por evento, etc.
 ![](https://i.imgur.com/H9Y4MWd.png)
 
 Logo abaixo dessas informações básicas, estão as informações de balanço 
-de custo. Nesta parte consideramos 4 cenários: pessimista, otimista, realista realizado e realista final. Cada cenário 
+de custo. Nesta parte consideramos 4 cenários: pessimista, otimista, atual e final. Cada cenário 
 pode ser definido da seguinte forma:
 
 * **Pessimista**: Poucos patrocínios e poucas pessoas se inscreveram no evento;
 * **Otimista**: Tivemos mais patrocínios que o esperado;
-* **Atual**: Que verbas já entraram e que custos já foram pagos
+* **Atual**: Que verbas já entraram e que custos já foram pagos;
 * **Final**: Qual o balanço final do evento, uma vez que tudo tiver entrado e sido pago.
 
 ![](https://i.imgur.com/wmcFSTU.png)
 
 Esta aba não é para entendermos o que está acontecendo em detalhes, mas para termos uma noção do nosso cenário atual.
+
+As células de balanço já ficam coloridas de vermelho ou verde de acordo com o resultado do balanço.
 
 
 ### Receitas
@@ -58,20 +60,26 @@ Esta aba não é para entendermos o que está acontecendo em detalhes, mas para 
 Hora de analisarmos o que vem pela frente em termos de receitas.
 
 A tabela da esquerda indica o que está sendo levado em consideração para o cenário otimista e pessimista. Esses números 
-são basicamente "chutes" e devem ser avaliados com cuidado. O total pessimista deve ser algo viável de ser alcançado, enquanto o otimista pode ter uma margem maior para *sonhar*, digamos assim.
+são basicamente "chutes" e devem ser avaliados com cuidado. 
+O total pessimista deve ser algo viável de ser alcançado enquanto o 
+otimista pode ter uma margem maior para *sonhar*, digamos assim.
 
 ![](https://i.imgur.com/CnJwzK2.png)
 
-E ai vem a pergunta: *como eu calculo o preço do ingresso?*. Segui a sugesto dada pelo Mário Sérgio nessa hora: 
+E aí vem a pergunta: *como eu calculo o preço do ingresso?* Segui a sugesto dada pelo 
+[Mário Sérgio](https://twitter.com/queirozMario21) nessa hora: 
 ingresso deve cobrir os custos com *coffe-breaks* e camisetas. Esse é o mínimo para que o evento aconteça e, por isso, 
 é sempre bom fazer esse cálculo primeiro. Lembre-se também de que existem taxas dos ingressos a serem pagos para a plataforma 
-que forem usar, e esse dinheiro é bom ser inserido nos custos.
+que forem usar, e esse dinheiro é bom ser inserido nos custos ou cobrados a parte, mas esse 
+custo não deve ser esquecido pois quanto maior o evento, maior o impacto dele.
 
 ![](https://i.imgur.com/lOCRc81.png)
 
-Finalmente, temos uma tabela exclusiva para os patrícionos (ou outras entradas de dinheiro) que já foram negociados e  
+Finalmente, temos uma tabela exclusiva para os patrícionos 
+(ou outras entradas de dinheiro) que já foram negociados e  
 confirmados. Patrocínios que já foram confirmados e que já 
-temos o comprovante de depósito entram na segunda coluna. Essa planilha é a receita *real* e *atual* do evento nesse momento 
+temos o comprovante de depósito entram na segunda coluna. Essa planilha é a receita *final* 
+e *atual* do evento nesse momento 
 que se olha. Para mim a informação do que temos previsto e o que temos na conta ajudou a organizar e cobrar patrocínios 
 bem como gerenciar quais pagamentos já podem ser feitos com o dinheiro que havia entrado.
 
@@ -108,11 +116,12 @@ Como ainda tínhamos grana depois de que tudo isso foi orçado e acertado, ainda
 * Cerveja e sucos para *happy hour*
 * Pagamento das camisetas para o Django Girls
 
-Foi de fundamental importância escalar o evento conforme o dinheiro ia entrando. Isso nos deu calma para fazer as coisas um 
-passo de cada vez e deu chance do evento estar sempre numa balança saudável.
+Foi de fundamental importância escalar o evento conforme o dinheiro ia entrando. Isso nos deu calma 
+para fazer as coisas passo a passo e deu chance do evento estar sempre numa balança saudável.
 
 A planilha ainda tem uma aba de **status** para saber exatamente o que já foi pago e quais são as despesas que estão por vir. 
-As vezes aquele comerciante está demorando uma vida para te mandar uma nota e você simplesmente esquece dele. Essa nota (e 
+Às vezes aquele comerciante está demorando uma vida para te mandar 
+uma nota e você simplesmente esquece dele. Essa nota (e 
 esse custo, por consequência) vai voltar pra te assombrar quando você menos espera.
 
 ![](https://i.imgur.com/rZQnxE6.png)
@@ -125,7 +134,8 @@ Tínhamos um problema sério: muitos keynotes para chamar e poucos espaços para
 
 Também colocamos o segundo dia começando com um café da manhã e as palestras começando de tarde. É normal haver um *happy 
 hour* no primeiro dia e as palestras começarem cedo no segundo dia é garantia de falta. Também escolhemos duas palestras de 
-peso para o segundo dia de manhã: um keynote e a palestra do Irio sobre a Operação Seranta de Amor. Sucesso! Casa cheia 
+peso para o segundo dia de manhã: um keynote e a palestra do [Irio](https://twitter.com/irio) 
+sobre a [Operação Seranta de Amor](https://serenata.ai/). Sucesso! Casa cheia 
 mesmo sendo sábado de manhã. 
 
 
@@ -141,8 +151,10 @@ Cada empresa tinha também uma coluna de status, onde eu podia olhar o andamento
 ## Plano de patrocínio
 
 Fizemos um plano de patrocínio curto e enxuto. Os patrocinadores já tem bastante ideia se eles devem ou não patrocinar antes 
-mesmo de você enviar o documento e, caso eles não tenham, uma boa conversa vai com certeza ser melhor do que 10 páginas de 
-documento. Me baseei nos planos de patrocínios que usamos nos Django Girls e o resultado [está aqui](https://docs.google.com/presentation/d/1HBfvW7qiGIAub9-v9DlkVnE-QRXXS5Zesi85hg77JMs/htmlpresent).
+mesmo de você enviar o documento e, caso eles não tenham, uma boa conversa com certeza vai 
+ser melhor do que 10 páginas de 
+documento. Me baseei nos planos de patrocínios que usamos nos [Django Girls](https://djangogirls.org/)
+e o resultado [está aqui](https://docs.google.com/presentation/d/1HBfvW7qiGIAub9-v9DlkVnE-QRXXS5Zesi85hg77JMs/htmlpresent).
 
 ## Engajando o pessoal
 
@@ -156,8 +168,11 @@ se ela ainda tem condições de faze-la ou se precisa de uma ajuda com algo;
 * Caso uma pessoa de fato não faça uma tarefa, marque uma outra pessoa disponível e pergunte se ela tem condições de ajudar;
 * Faça listas de tarefas pequenas e simples, isso facilita engajamento porque as pessoas 
 podem fazer em pequenos intervalos e ajuda quem está começando;
-* Pessoas mais próximas e engajadas pegaram tarefas especficas do começo ao fim como: orçar, negociar e encomendas as camisetas. Isso facilita a comunicação com as empresas mas, no todo, acaba não sobrecarregando aquela pessoa especfica;
-* Agradeça, agradeça muito toda e qualquer ajuda. Cada tarefa que uma pessoa realize é uma a menos para ser feita por você. 
+* Pessoas mais próximas e engajadas pegaram tarefas especficas do começo ao fim como: orçar, negociar e encomendas as camisetas. 
+Isso facilita a comunicação com as empresas mas, no todo, 
+acaba não sobrecarregando aquela pessoa específica;
+* Agradeça! Agradeça muito toda e qualquer ajuda. Cada tarefa que uma pessoa realiza é 
+uma a menos que você precisa fazer. 
 
 ## Aproveite! 
 
