@@ -101,6 +101,20 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 </p>
 
 <p>
+  <a href="http://sudocast.com.br/portfolio-items/ep-0011-opodcastedelas/" target="_blank">
+    Sudocast 11: #OPodcastÉDelas
+  </a>
+    <small>Mar/18 - Podcast - Sudocast</small>
+</p>
+
+<p>
+  <a href="http://databasecast.com.br/wp/databasecast-82-ciencia-e-dados/" target="_blank">
+    DataBaseCast 82: Ciência e dados
+  </a>
+    <small>Mar/18 - Podcast - DatabaseCast</small>
+</p>
+
+<p>
   <a href="http://sudocast.com.br/portfolio-items/ep-0006-python/" target="_blank">
     Participation on Sudocast Episode 06 - Python: Pessoas > Tecnologia 
   </a>
