@@ -12,6 +12,7 @@ sidebar_link: true
 * [Courses](#courses)
 * [Languages](#languages)
 * [Software tools and knowledges](#tools)
+* [Work with tech community](http://leportella.com/community.html)
 
 <br/>
 <br/>
