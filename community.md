@@ -209,6 +209,11 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 <h2 id="someone-wrote"> What someone wrote about me s2...</h2>
 
 <p>
+Kevin Martin added Pizza de Dados as one of the top brazilian technology podcasts 
+<a href="https://medium.com/@kevinbreaker/principais-podcasts-brasileiros-de-tecnologia-6ff8944226f7">on this blog post</a>
+</p>
+
+<p>
     On March17, the Cheesecake Labs
   <a href="https://www.ckl.io/blog/girl-codes-matters/" target="_blank">
       added me on a list
@@ -225,7 +230,7 @@ until January 2017 :)
   Mario told my story in a beautiful 
 <a href="https://medium.com/@sergiomarioq/pessoas-tecnologia-ca688e139e9e">blog post</a> about people that helped him
 run Python Brazil Conference on 2016.
-</a>
+</p>
 
 <p>
   Rodrigo Medeiros add me and my Podcast Pizza de Dados in <a href="https://medium.com/datavizbr/lista-colaborativa-de-quem-seguir-nas-redes-sociais-em-2018-sobre-big-data-data-science-f776dbf333b3" target="_blank">this list</a> of people from big data, data science, data journalism and data visualization.
