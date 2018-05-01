@@ -8,7 +8,7 @@ tags:
   - python
   - pandas 
   - cheatlist
-last_modified_at: 2017-03-09T14:25:52-05:00
+last_modified_at: 2018-05-01T14:25:52-05:00
 ---
 
 
@@ -28,6 +28,7 @@ This way, I really wanted a place to gather my tricks that I really don't want t
 * [How to fill values on missing months](#missing-months)
 * [How to filter column elements on a list](#filter-elements-by-list)
 * [How to change a Series type?](#change-series-type)
+* [How to apply a function to every item of my Serie?](#apply-function)
 
 # My Pandas Cheat List
 
@@ -135,3 +136,13 @@ import pandas as pd
 serie = pd.Series([1, 2, 3, 4])
 series.astype(float)
 ```
+
+<h2 id='apply-function'>How to apply a function to every item of my Serie?</h2>
+
+```python
+import pandas as pd
+
+serie = pd.Series(['a', 'b', 'b', 'a'])
+series.apply(lambda x: 0 if x=='a' else 1)
+```
+
