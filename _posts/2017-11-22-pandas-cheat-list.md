@@ -29,6 +29,7 @@ This way, I really wanted a place to gather my tricks that I really don't want t
 * [How to filter column elements on a list](#filter-elements-by-list)
 * [How to change a Series type?](#change-series-type)
 * [How to apply a function to every item of my Serie?](#apply-function)
+* [How to prepare my DataFrame to apply get_dummies?](#apply-get-dummies)
 
 # My Pandas Cheat List
 
@@ -146,3 +147,16 @@ serie = pd.Series(['a', 'b', 'b', 'a'])
 series.apply(lambda x: 0 if x=='a' else 1)
 ```
 
+<h2 id='aplly-get-dummies'>How to prepare my DataFrame to apply get_dummies?</h2>
+
+```python
+import pandas as pd
+
+X = pd.read_csv(..)
+categorical = ['x1', 'x2', 'x4']  # columns that have categorical features in your X
+
+for cat in categorical: 
+    X[cat] = X[cat].astype(object)
+
+X_dummy = pd.get_dummies(X)
+```
