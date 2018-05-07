@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meus 'truques' preferidos em Python - Parte I
+title: "Meus 'truques' preferidos em Python - Parte I"
 categories:
   - pt-br 
 tags:
