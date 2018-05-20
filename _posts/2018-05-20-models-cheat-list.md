@@ -17,6 +17,7 @@ last_modified_at: 2018-05-01T14:25:52-05:00
 # Summary
 
 * [Supervised Models](#supervised)
+* [Unupervised Models](#unsupervised)
 
 # Machine Learning Models Cheat List
 
@@ -140,6 +141,45 @@ suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 
 * A lot of hyperparameters to tune
 * Sensitive to feature scaling
+
+
+<h2 id='unsupervised'>Unupervised Models</h2>
+
+### KMeans
+
+#### Advantages
+
+* Good when you have an idea of an ideal number of clusters
+* Can scale well with lots of samples, scale medium with number of clusters
+
+#### Disadvantages
+
+* Doesn't handle missing values very well
+* Can't find clusters that aren't circular or spherical
+
+#### Choosing the value of K
+
+For choosing the value of k cluster we can use the elbow method:
+
+```python
+from sklearn.clusters import Kmeans
+from sklearn.metrics import silhouette_score
+
+X = pd.DataFrame(...)
+
+possible_k_values = range(2, len(X)+1, 5)
+
+scores = []
+for k in possible_k_values:
+    model = Kmeans(n_clusters=k).fit(X)
+    prediction = model.predict(X)
+    score = silhouette_score(X, predictions)
+    scores.append((k, score))
+```
+
+Then find the best numbers of clusters by choosing a k that has a lower 
+score of errors but can still be good enough for your problem.
+
 
 ## General References
 
