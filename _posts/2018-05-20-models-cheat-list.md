@@ -17,36 +17,40 @@ last_modified_at: 2018-05-01T14:25:52-05:00
 # Summary
 
 * [Supervised Models](#supervised)
+    - [Logistic Regression](#logistic-regression)
+    - [Decision Tree](#decision-tree)
+    - [Ensemble Methods](#ensemble-methods)
+    - [K-nearest Neighbors](#knearesneighbors)
+    - [Gaussin Naive Bayes](#gaussiannb)
+    - [SVM](#svm)
+    - [Stocastic Gradient Descent](#stochastic-gradient-descente)
 * [Unupervised Models](#unsupervised)
+    - [Kmean](#kmeans)
+    - [Hierarchical Clustering](#hierarchical)
 
 # Machine Learning Models Cheat List
-
 
 <h2 id='supervised'>Supervised Models</h2>
 
 This is a small revision on advantages and disadvantages of each model, based on 
 suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 
-### Logistic Regression
+<h3 id='logistic-regression'>Logistic Regression</h3>
 
-**Advantages**:
+#### Advantages
 
 * Don't have to worry about features being correlated
 * You can easily update your model to take in new data (unlike Decision Trees or SVM)
 
-**Disadvantages**: 
+#### Disadvantages
 
 * Deals bad with outliers
 * Must have lots of incomes for each class
 * Presence of multicollinearity
 
-**Real use**:
+<h3 id='decision-tree'>Decision Tree</h3>
 
-* Some obese people get gastric bypass surgery to lose weight, and some of them die as a result of the surgery. Benotti et al. (2014) wanted to know whether they could predict who was at a higher risk of dying from one particular kind of surgery, Roux-en-Y gastric bypass surgery. They obtained records on 81,751 patients who had had Roux-en-Y surgery, of which 123 died within 30 days. They did multiple logistic regression, with alive vs. dead after 30 days as the dependent variable, and 6 demographic variables (gender, age, race, body mass index, insurance type, and employment status) and 30 health variables (blood pressure, diabetes, tobacco use, etc.) as the independent variables. Manually choosing the variables to add to their logistic model, they identified six that contribute to risk of dying from Roux-en-Y surgery: body mass index, age, gender, pulmonary hypertension, congestive heart failure, and liver disease. —> from http://www.biostathandbook.com/multiplelogistic.html
-
-### Decision Tree
-
-**Advantages**:
+#### Advantages
 
 * Easy to understand and interpret (for some people)
 * Easy to use - Doesn’t need data normalisation, dummy variables, etc 
@@ -54,53 +58,45 @@ suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 * Easily handle feature interactions
 * Don't have to worry about outliers
 
-**Disadvantages**:
+#### Disadvantages
 
 * It can be easily overfitted
 * Stability —> small changes in data can lead to completely different trees
 * If a class dominates, it can easily be biased
 * Don't support online learning --> you should rebuilt the tree when new data comes
 
-**Real case**:
 
-* Used several Decision Tree configurations trying to predict lookahead and pathology —> http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.6872&rep=rep1&type=pdf
+<h3 id='ensemble-methods'>Ensemble Methods</h3>
 
-### Ensemble Methods
-
-**Advantages**:
+#### Advantages
 
 * Harder to overfit
 * Usually better perfomance than a single model
 
-**Disadvantages**:
+#### Disadvantages
 
 * Scaling —> usually it trains several models, which can have a bad performance with larger datasets
 * Hard to implement in real time platform
 * Complexity increases
 * Boosting delivers poor probability estimates (https://arxiv.org/ftp/arxiv/papers/1207/1207.1403.pdf)
 
-**Real case**:
+<h3 id='knearesneighbors'>K-nearest Neighbors</h3>
 
-* AdaBoosting was used to detect baseball players game analysis (https://www.uni-obuda.hu/journal/Markoski_Ivankovic_Ratgeber_Pecev_Glusac_57.pdf)
-
-
-### K-Nearest Neighbors
-
-**Advantages**:
+#### Advantages
 
 * Little training time
 * Works well with multiclass datasets 
 * Good for highly unusual data
 
-**Disadvantages**:
+#### Disadvantages
 
 * Need to determine value of k (distance)
 * Neighbors-based methods are known as non-generalizing machine learning methods, since they simply “remember” all of its training data
 * The accuracy of KNN can be severely degraded with high-dimension data because there is little difference between the nearest and farthest neighbor.
 
-### Gaussian Naive Bayes 
+<h3 id='gaussiannb'>Gaussian Naive Bayes</h3>
 
-**Advantages**:
+#### Advantages
 
 * Need less training data tran models like logistic regression
 * Highly scalable
@@ -108,36 +104,32 @@ suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 * Returns the degree of certanty of the answer
 * Good when you need something fast and that perfoms well
 
-**Disavantages**:
+#### Disavantages
 
 * Can't learn interactions between features e.g., it can’t learn that although you love movies with Brad Pitt and Tom Cruise, you hate movies where they’re together).
 
-**Real case**:
+<h3 id='svm'>SVM</h3>
 
-* Emotion recognition with Gaussian Naive Bayes (https://ieeexplore.ieee.org/abstract/document/1044578/)
-
-### SVM
-
-**Advantages**:
+#### Advantages
 
 * High accuracy
 * Nice theoretical guarantees regarding overfitting
 * Especially popular in text classification problems
 
-**Disavantages**:
+#### Disavantages
 
 * Memory-intensive
 * Hard to interpret
 * Complicated to run and tune
 
-### Stochastic Gradient Descent
+<h3 id='stochastic-gradient-descente'>Stochastic Gradient Descent</h3>
 
-**Advantages**:
+#### Advantages
 
 * Efficiency
 * Ease implementation
 
-**Disavantages:** 
+#### Disavantages
 
 * A lot of hyperparameters to tune
 * Sensitive to feature scaling
@@ -145,7 +137,7 @@ suggested models of Udacity's Nanodegree in Machine Learning Engineer.
 
 <h2 id='unsupervised'>Unupervised Models</h2>
 
-### KMeans
+<h3 id='kmeans'>KMeans</h3>
 
 #### Advantages
 
@@ -179,6 +171,33 @@ for k in possible_k_values:
 
 Then find the best numbers of clusters by choosing a k that has a lower 
 score of errors but can still be good enough for your problem.
+
+<h3 id='hierarchical-clustering'>Hierarchical Clustering</h3>
+
+#### Implementation on Sklearn
+
+```python
+from sklearn import cluster
+
+X = pd.DataFrame(...)
+
+cls = cluster.AgglomerativeClustering(n_clusters=3, linkage='ward')
+labels = cls.predict(X)
+``` 
+
+#### Get a dendrogram from a hierarchical clustering
+
+```python
+from scipy.cluster.hierarchy import dendogram, ward
+import matplotlib.pyplot as plt
+
+X = pd.DataFrame(...)
+linkage_matrix = ward(X)
+
+dendogram(linkage_matrix)
+plt.show()
+
+```
 
 
 ## General References
