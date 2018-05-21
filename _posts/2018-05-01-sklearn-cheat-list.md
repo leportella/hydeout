@@ -18,10 +18,20 @@ This way, I really wanted a place to gather my tricks that I really don't want t
 
 # Summary
 
+* [How to normalize features?](#normalize-features)
 * [How to create a bag of words dataframe matrix](#bag-of-words)
 * [How to export a trained model](#export-model)
 
 # My Sklearn Cheat List
+
+
+<h2 id='normalize-features'>How to normalize features?</h2>
+
+```python
+from sklearn import preprocessing
+
+normalized_X = preprocessing.normalize(X)
+```
 
 <h2 id='bag-of-words'>How to create a bag of words dataframe matrix</h2>
 

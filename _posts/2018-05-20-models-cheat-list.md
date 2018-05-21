@@ -174,6 +174,17 @@ score of errors but can still be good enough for your problem.
 
 <h3 id='hierarchical-clustering'>Hierarchical Clustering</h3>
 
+#### Advantages
+
+* Resulting hierarchical representation can be very informative
+* Provides an additional ability to visualize 
+* Especially potent when the dataset contains real hierarchical relationship (e.g. Evolutionary biology)
+
+#### Disadvantages
+
+* Sensitive to noise and outliers
+* Computationally intensive O(N^2)
+
 #### Implementation on Sklearn
 
 ```python
