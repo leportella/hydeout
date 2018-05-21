@@ -22,40 +22,15 @@ sidebar_link: true
 <h5>BSc. Oceanography</h5>
 <p>[Mar/08 - Dec/13] Federal University of Santa Catarina</p>
 
-<h5>MSc. Oceanography</h5>
+<h5>MSc. Oceanography - Dynamic and Management of Coastal Systems</h5>
 <p>[Mar/15 - Nov/17] Federal University of Santa Catarina</p>
-
-
-Master Degree on Oceanography, Dynamic and Management of Coastal Systems by Federal University of Santa Catarina, SC, Brazil.
-
-**Abstract**: 
-This study presents a sequence of analysis on the hydrodynamic
-characteristics of a subtropical bay on South of Brazil, the Itapocorói
-Bay. The data analyzed was collected by three current profilers
-deployed at different areas of the bay, each one with different
-degrees of exposure to the most energetic waves, for a 33 days
-period. Additionally a one year tide gauge measurement was
-analyzed too. Results indicated that the bay can be divided in two
-separate environments: a sheltered area being under the influence
-of diurnal sea-land breeze and mild currents (under 8cm.s − 1 )
-and the exposed area being mainly driven by regional winds,
-with a presence of a quite stable coastal current flowing along
-the coast towards south and higher velocities (around 20cm.s − 1 ).
-Meteorological water level could also be correlated with winds
-indicating the presence of local upwelling, with an increase water
-level associated with NE winds and a decrease with SE winds. Tidal
-analysis indicated that there is a tendency of a water pile up as the
-tide wave enters the bay. Residual currents on the bay revealed that
-currents are mainly influenced by wind and velocities can reach up
-to 2cm.s − 1 wich represents 10% of typical currents on the bay.
-
 
 <br/>
 <br/>
 
 <h1 id='positions'>Positions</h1>
 
-<h5>[Jun/17 - present] Data Scientist and Developer - Softplan</h5>
+<h5>[Jun/17 - Mai/18] Data Scientist and Developer - Softplan</h5>
 Working with development and data science in the legal area.
 
 Technologies include, but are not limited to:

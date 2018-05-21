@@ -27,9 +27,8 @@ Ice and Fire and all their theories.
 I like to write as much as I like to read. So, to help young passionate programmers, I write several blog posts to share things I am learning and my life experiences. 
 Most (if not all) of them you can find here.
 
-Lately, I started a brazilian podcast focusing on data science called [Pizza de Dados](http://podcast.datascience.pizza) or, in english, Data Pizza.
+In 2017, I started a brazilian podcast focusing on data science called [Pizza de Dados](http://podcast.datascience.pizza) or, in english, Data Pizza.
 It's been a crazy journey that I never saw coming! But now that's here, I am so happy to do this.
 
-I am also part of the awesome data science team of <a href="http://softplan.com.br" target="_blank">Softplan</a> in Florianópolis, South of Brazil.
 
 ![](https://i.imgur.com/gVatGhc.jpg)
