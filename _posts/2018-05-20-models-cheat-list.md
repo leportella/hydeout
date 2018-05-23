@@ -27,6 +27,7 @@ last_modified_at: 2018-05-01T14:25:52-05:00
 * [Unupervised Models](#unsupervised)
     - [Kmean](#kmeans)
     - [Hierarchical Clustering](#hierarchical)
+    - [DBSCAN](#dbscan)
 
 # Machine Learning Models Cheat List
 
@@ -210,6 +211,38 @@ plt.show()
 
 ```
 
+<h3 id='dbscan'>DBSCAN</h3>
+
+#### Advantages:
+
+* We don't need to specify the number of clusters
+* Flexibility in shapes and sizes of clusters
+* Able to deal with noise and outliers
+
+#### Disadvantages
+
+* Border points that are reachable from two clusters is assigned to the cluster that finds it first
+* Faces difficulty finding clusters of varying densities
+
+#### Tips:
+
+* Small min samples and small episilon results in many small clusters
+* Small min samples and large episilon results in most points being on the same cluster
+* Large min samples results in most of points being classified as noise, except on desen regions when episilon is high
+* Do not use silhouetter coefficient to test this model! [Recomendado](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=83C3BD5E078B1444CB26E243975507E1?doi=10.1.1.707.9034&rep=rep1&type=pdf)
+
+<h3 id='gmm'>Gaussian Mixture Model</h3>
+
+#### Advantages
+
+* Soft-clustering (you can see percentages of cluster participation on each sample)
+* Cluster shape flexibility
+
+#### Disadvantages
+
+* Sensitive to initialization values
+* Possible to converge to a local optimum
+* Slow convergence rate
 
 ## General References
 
