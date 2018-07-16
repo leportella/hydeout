@@ -72,7 +72,6 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
    Você já se desafiou hoje?
   <a>
     <small>Aug/2016 - Conéctar Experience - Ribeirão Preto/SP</small>
-</p>
 
 <p>
   <a href="https://www.youtube.com/watch?v=yV3XFWfJ0TE&t=393s" target="_blank">
@@ -94,7 +93,7 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 <h2 id="podcasts">Podcasts</h2>
 
 <p>
-  <a href="http://podcast.datascience.pizza/" target="_blank">
+  <a href="http://pizzadedados.com/" target="_blank">
     Pizza de Dados - Founder and Co-Host
   </a>
     <small> Podcast </small>
@@ -116,7 +115,7 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 
 <p>
   <a href="http://sudocast.com.br/portfolio-items/ep-0006-python/" target="_blank">
-    Participation on Sudocast Episode 06 - Python: Pessoas > Tecnologia 
+    Sudocast 06 - Python: Pessoas > Tecnologia 
   </a>
     <small>Nov/17 - Podcast - Sudocast </small>
 </p>
@@ -126,10 +125,18 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 
 <p>
   <a href="http://pythonsul.org/">
-    Python Sul - Organizer
+    Python Sul - Main Organizer
   </a>
     <small>Apr/18 -Florianópolis/SC</small>
 </p>
+
+<p>
+  <a href="https://djangogirls.org/florianopolis/">
+    Django Girls Floripa
+  </a>
+    <small>Apr/2018 - Florianópolis/SC</small>
+</p>
+
 
 <p>
   <a href="http://caipyra.python.org.br/">
@@ -180,7 +187,8 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
 <ul>
 <li><a href="https://github.com/leportella/data-science-roadmap"> Data Science Roadmap</a> - Creator</li>
 <li><a href="https://github.com/rougeth/bottery">Bottery</a> - Collaborator</li>
-<li> Django Simple History - Collaborator </li>
+<li><a href="https://github.com/okfn-brasil/perfil">Perfil Político</a> - Collaborator</li>
+<li> Django Simple History</li>
 <li> Restless </li>
 <li> Python Social App </li>
 <li> Intermediate Python (translation to pt-br) </li>

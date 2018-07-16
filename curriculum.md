@@ -20,17 +20,33 @@ sidebar_link: true
 <h1 id='formation'>Formation</h1>
 
 <h5>BSc. Oceanography</h5>
-<p>[Mar/08 - Dec/13] Federal University of Santa Catarina</p>
+<p>Federal University of Santa Catarina - 2008-2013</p>
 
 <h5>MSc. Oceanography - Dynamic and Management of Coastal Systems</h5>
-<p>[Mar/15 - Nov/17] Federal University of Santa Catarina</p>
+<p>Federal University of Santa Catarina - 2015-2017</p>
 
 <br/>
 <br/>
 
 <h1 id='positions'>Positions</h1>
 
-<h5>[Jun/17 - Mai/18] Data Scientist and Developer - Softplan</h5>
+<h5>Data Scientist and Developer - Open Knowledge Foundation Brazil - Jun/18-now</h5>
+
+I joined [Open Knowledge Foundation Brazil](br.okfn.org) and the project [Operação Serenata de Amor](https://serenata.ai/)
+ to help construct [a platform for profiling public figures](https://github.com/okfn-brasil/perfil) in Brazilian politics, 
+searching for corruption patterns or figures with inconsistent politics paths 
+(changes in parties, unpopular law projects, high expenses on public money).
+
+Technologies include, but are not limited to:
+* MongoDb and Mongoengine 
+* Jupyter
+* Pandas
+* Numpy
+* Peo4J
+* Django
+* Pytest
+
+<h5>Data Scientist and Developer - Softplan - Jun/17-May/18</h5>
 Working with development and data science in the legal area.
 
 Technologies include, but are not limited to:
@@ -41,9 +57,8 @@ Technologies include, but are not limited to:
 * MongoDB
 * Neo4J
 * PostgreSQL
-* NLP
 
-<h5>[Jun/16 - May/17] Developer - Crave Food Services</h5>
+<h5>Developer - Crave Food Services - Jun/16-May/17</h5>
 
 [Crave Food Services](http://sourcewhatsgood.com/) is an online platform and market that connects chefs, farmers, and food purveyors. The company offers food consulting services regarding, purchasing, farming, logistics, and reporting.
 
@@ -56,10 +71,10 @@ Tecnologies:
 * Elastic Search
 * Haystack
 
-<h5>[Mar/16 - Jun/16] Developer - eCentry</h5>
+<h5>Developer - eCentry - Mar/16-Jun/16</h5>
 Backend developer analyst using python. Projects involved agile planning, Django, Tastypie, git and Linux OS.
 
-<h5>[Jan/14 - Fev/16] Numerical Modelling Specialist - Chicago Bridges & Iron</h5>
+<h5>Numerical Modelling Specialist - Chicago Bridges & Iron - Sep/12-Fev/16</h5>
 
 Worked in Coastal and Port Engineering area.
 
@@ -76,14 +91,10 @@ Worked in Coastal and Port Engineering area.
 
 Participated of all areas of port projects, from conception, design, basic project and execution, moooring, maneuver studies and viability studies.
 
-<h5>[Apr/13 - Jan/14] Navigation Aid - Chicago Bridges & Iron</h5>
-
-<h5>[Apr/13 - Jan/14] Internship - Chicago Bridges & Iron</h5>
-
-<h5>[Sep/11 - Jul/12] Internship - Instituto de Estudos do Mar Almirante Paulo Moreira (IEAPM)/Brazilian Navy</h5>
+<h5>Internship - Instituto de Estudos do Mar Almirante Paulo Moreira (IEAPM)/Brazilian Navy - Sep/11-Jul/12</h5>
 Worked with remote sensing analysis for researches involving Brazilian Current and automation techniques.
 
-<h5>[May/09 - Aug/11] Scientific Initiation Scholarship - Coastal Oceanography Laboratory/UFSC</h5>
+<h5>Scientific Initiation Scholarship - Coastal Oceanography Laboratory/UFSC - May/09-Aug/11</h5>
 Worked with geomorphologic and sedimentology analysis in a national reservoir through the use of Geographic Information System (GIS).
 
 <br/>

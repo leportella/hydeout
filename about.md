@@ -7,7 +7,7 @@ sidebar_link: true
 Hey there! Welcome!
 
 
-Well, I am an oceanographer that discovered to be passionate about programming (More about this [here](http://leportella.com/pt-br/2016/03/13/de-oceanografa-para-programadora.html)).
+Well, I am an oceanographer that discovered to be passionate about programming (More about this [here](http://leportella.com/english/2016/03/16/from-oceanographer-to-programmer.html)).
 
 I discovered that programming is something that I like and I can learn with a certain amount of easiness. 
 
