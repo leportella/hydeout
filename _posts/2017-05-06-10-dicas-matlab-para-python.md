@@ -23,28 +23,31 @@ O intuito deste post não é discutir qual ferramenta é melhor, mas mostrar com
 
 ## 1. Números, letras e outras “cositas mas”…
 
-No Matlab podemos criar vetores e matrizes de números e texto, o que é bastante útil e intuitivo. Basicamente, podemos acessar qualquer valor em um vetor ou matriz pela sua posição na mesma (Ex: *lista(1,2)*).
+No Matlab podemos criar vetores e matrizes de números e texto, o que é bastante útil e 
+intuitivo. Basicamente, podemos acessar qualquer valor em um vetor ou 
+matriz pela sua posição na mesma (Ex: `lista(1,2)`).
 
 Já no Python, além de listas passamos a ver estruturas diferentes e muito potentes, como os dicionários.
 
 Dicionários são estruturas de dados que você pode acessar através da “chave” do valor e não de sua posição na estrutura. Quer saber a utilidade? Em uma lista telefônica seria mais simples encontrar números pela posição na lista ou pelo nome do contato? :D
 
-Além disso, existe uma diferença entre tipos de variáveis decimais (**floats**) e números inteiros (**integers**). Ou seja, é bom se familiarizar primeiro com os tipos de variáveis e estruturas que existem no Python! Essa é uma vantagem bem grande!
+Além disso, existe uma diferença entre tipos de variáveis decimais (`floats`) e números inteiros (`integers`). Ou seja, é bom se familiarizar primeiro com os tipos de variáveis e estruturas que existem no Python! Essa é uma vantagem bem grande!
 
 ![](https://media.giphy.com/media/6FymBmqKeBrl6/giphy.gif)
 *Vendo dicionários e tuplas pela primeira vez*
 
-Se você tiver em dúvida do [tipo da sua variável](https://docs.python.org/3/library/stdtypes.html), digite: **type(variavel)** ;)
+Se você tiver em dúvida do [tipo da sua variável](https://docs.python.org/3/library/stdtypes.html), digite: `type(variavel)` ;)
 
 ## 2. Trabalhando com palavras e números
 
-Seja através de dicionários ou listas (estruturas padrão do Python) ou DataFrames (estrutura de matrizes do Pandas), Python é facílimo de trabalhar com dados numéricos e de texto em um mesmo contexto. O mesmo não pode ser dito do Matlab, onde inserir textos complica tudo!
+Seja através de dicionários ou listas (estruturas padrão do Python) ou DataFrames (estrutura de matrizes do Pandas), 
+Python é facílimo de trabalhar com dados numéricos e de texto em um mesmo contexto. O mesmo não pode ser dito do Matlab, onde inserir textos complica tudo!
 
-Uma lista do tipo **lista = [1, 'dois', [1,2,3], {'chave': 1}]** é totalmente aceitável!
+Uma lista do tipo `lista = [1, 'dois', [1,2,3], {'chave': 1}]` é totalmente aceitável!
 
 ## 3. Acessando valores em listas (e listas de listas)
 
-Em Matlab, contagem de listas começam em 1 e são acessadas através de parênteses. O último valor pode ser acessado através da palavra **end**.
+Em Matlab, contagem de listas começam em `1` e são acessadas através de parênteses. O último valor pode ser acessado através da palavra `end`.
 
 ```matlab
 % Acessando itens de lista no Matlab
@@ -58,13 +61,13 @@ disp(lista(1))
 disp(lista(end))
 ```
 
-Em Python, as listas são acessadas com colchetes (parênteses são reservados para chamada de funções, classes e definições) e sua contagem começa em **0**. 
+Em Python, as listas são acessadas com colchetes (parênteses são reservados para chamada de funções, classes e definições) e sua contagem começa em `0`. 
 O motivo de terem escolhido essa forma de contagem está além do escopo desse post, mas você pode ver algumas discussões [aqui](https://www.quora.com/Why-do-array-indexes-start-with-0-zero-in-many-programming-languages?share=1). De qualquer forma, isso foi algo muito difícil de eu me acostumar, por mais simples que seja.
 
-Dica: para acessar o último valor da lista, podemos usar o índice **-1**. Já imagina o que o índice **-2** faz? :D
+Dica: para acessar o último valor da lista, podemos usar o índice `-1`. Já imagina o que o índice `-2` faz? :D
 
 ```python
-# Acessando itens de lista em Ptyhon
+# Acessando itens de lista em Python
 
 
 lista = [1, 2, 3];
@@ -87,8 +90,9 @@ print(lista_complexa[1][1])
 
 ## 4. Blocos não terminam com “end” e precisam de “:”
 
-No Matlab, a maneira mais simples de fazer um laço é a mostrada abaixo, onde você tem uma lista e itera pelos itens dela. Neste laço abaixo, o **for** caracteriza o início do laço 
-e o **end** determina seu fim. O interpretador vai ler tudo o que está entre essas duas declarações como parte do laço.
+No Matlab, a maneira mais simples de fazer um laço é a mostrada abaixo, 
+onde você tem uma lista e itera pelos itens dela. Neste laço abaixo, o `for` caracteriza o início do laço 
+e o `end` determina seu fim. O interpretador vai ler tudo o que está entre essas duas declarações como parte do laço.
 
 Repare que a identação¹ inserida ali é puramente opcional, apenas uma boa prática.
 
@@ -107,7 +111,7 @@ end
 disp('Fora do laço')
 ```
 
-Abaixo vemos o mesmo laço escrito em Python. Dessa vez, o **:** marca o início do laço e não existe **end** para marcar o fim. 
+Abaixo vemos o mesmo laço escrito em Python. Dessa vez, o `:` marca o início do laço e não existe `end` para marcar o fim. 
 O fim é demarcado pelo fim da identação na linha 7. O interpretador vê que a linha 7 não está aninhada dentro do laço iniciado na linha 5 e, portanto, não considera aquela linha dentro do bloco. Dessa forma, é muito óbvio imaginar que a identação, neste caso, não é opcional e sim obrigatória!
 
 ```python
@@ -146,8 +150,9 @@ Porém, além dessas funções que vêm nos módulos, cada variável tem funçõ
 São funções, específicas de cada tipo de variável, que podem ser acessadas através do nome da variável conforme mostra o exemplo abaixo.
 
 Por exemplo, variáveis do tipo **string** são interpretadas como texto. 
-Para variáveis de texto existem funções para verificar se as letras estão todas em minúsculo (**.islower()**) ou para deixar todas as letras em minúsculo (**.lower()**) 
-ou mesmo conferir se o conteúdo da string é numérico (**.isdigit()**).
+Para variáveis de texto existem funções para verificar se as letras estão todas 
+em minúsculo (`.islower()`) ou para deixar todas as letras em minúsculo (`.lower()`) 
+ou mesmo conferir se o conteúdo da string é numérico (`.isdigit()`).
 
 Para cada tipo de variável (string, inteiro, float, lista, dicionário, etc) existem diferentes métodos *builtin*. Melhor maneira de conhecê-los é abrir o interpretador, criar variáveis e brincar!
 
@@ -180,7 +185,10 @@ Se você está usando Matlab a maioria de suas necessidades devem ser supridas c
 
 ## 7. Aonde eu vejo as variáveis carregadas?
 
-Um dos problemas mais recorrentes era que em Matlab estamos extremamente acostumados com a visualização de variáveis. O “terminal” estava ali, mas o script também e as variáveis que estavam carregadas também. A possibilidade de rodar apenas uma linha de código com um simples **F9** sem necessariamente rodar o código inteiro também me fazia falta.
+Um dos problemas mais recorrentes era que em Matlab estamos extremamente acostumados 
+com a visualização de variáveis. O “terminal” estava ali, mas o script 
+também e as variáveis que estavam carregadas também. 
+A possibilidade de rodar apenas uma linha de código com um simples `F9` sem necessariamente rodar o código inteiro também me fazia falta.
 
 Em tutoriais de Python vemos aquele “terminal” puro onde você digita as coisas e os resultados saem.
 No começo, isso chega a ser assustador. Eventualmente eu me acostumei, mas o que ajudou na transição foi usar o [Spyder](https://pypi.python.org/pypi/spyder).
@@ -196,7 +204,8 @@ Exemplo do Spyder funcionando com um script de 11 linhas (esquerda), as variáve
 
 ## 8. Procurando ajuda
 
-Se você não sabe o que uma função faz, simplesmente digite: **help(função)** e seja feliz :) Se tiver no Spyder, você pode ir em cima da função e digitar Ctrl+I.
+Se você não sabe o que uma função faz, simplesmente digite: `help(função)` e 
+seja feliz :) Se tiver no Spyder, você pode ir em cima da função e digitar `Ctrl+I`.
 
 ## 9. Orientação a objetos
 
