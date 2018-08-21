@@ -30,6 +30,7 @@ This way, I really wanted a place to gather my tricks that I really don't want t
 * [How to change a Series type?](#change-series-type)
 * [How to apply a function to every item of my Serie?](#apply-function)
 * [How to prepare my DataFrame to apply get_dummies?](#apply-get-dummies)
+* [read_csv errors of encoding](#encoding)
 
 # My Pandas Cheat List
 
@@ -159,4 +160,29 @@ for cat in categorical:
     X[cat] = X[cat].astype(object)
 
 X_dummy = pd.get_dummies(X)
+```
+
+<h2 id='encoding'>read_csv errors of encoding</h2>
+
+Usually you can read a csv just by doing something like:
+
+```python
+pd.read_csv('file.csv')
+```
+
+Sometimes, an encoding error appears. The first option is to pass 'utf8' as a value of 
+the parameter `encoding`.  
+
+```python
+pd.read_csv('file.csv', encoding='utf8')
+```
+
+But there are some cases where this is not enough and the following error keeps appearing:
+
+`UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc7 in position 4: invalid continuation byte`
+
+The only thing that could resolve this was:
+
+```python
+pd.read_csv('file.csv', encoding='latin-1')
 ```
