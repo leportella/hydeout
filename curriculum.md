@@ -30,12 +30,10 @@ sidebar_link: true
 
 <h1 id='positions'>Positions</h1>
 
-<h5>Data Scientist and Developer - Open Knowledge Foundation Brazil - Jun/18-now</h5>
+<h5>Data Scientist and Developer - Nantech - Jun/18-now</h5>
 
-I joined [Open Knowledge Foundation Brazil](br.okfn.org) and the project [Operação Serenata de Amor](https://serenata.ai/)
- to help construct [a platform for profiling public figures](https://github.com/okfn-brasil/perfil) in Brazilian politics, 
-searching for corruption patterns or figures with inconsistent politics paths 
-(changes in parties, unpopular law projects, high expenses on public money).
+Working with several companies to develop projects focusing mainly on data 
+analysis.
 
 Technologies include, but are not limited to:
 * MongoDb and Mongoengine 

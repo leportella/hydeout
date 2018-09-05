@@ -20,7 +20,43 @@ sidebar_link: true
 <p> Now I am part of the boards of directos of the Associação Python Brasil (Python Brazil Association) as Director of Marketing and Public Relations. 
 I also have a Podcast called Pizza de Dados along with two friends.</p>
 
+
+<br/>
+
+
 <h2 id="talks"> Talks and Workshops</h2>
+
+<p>
+  <a href="" target="_blank">
+    Operação Serenata de Amor
+  </a>
+    <small>Ago/18 - Keynote at SciPy Latin America - Curitiba/PR</small>
+</p>
+
+<p>
+  <a href="" target="_blank">
+    Operação Serenata de Amor
+  </a>
+    <small>Ago/18 - Banco do Brasil - Brasília/DF</small>
+</p>
+
+<p>
+    Ciência de dados para um futuro menos incerto 
+    <small>Ago/18 - Intelbras - Florianópolis/SC</small>
+</p>
+
+<p>
+  <a href="https://slides.com/leticiaportella/que-belo-dia-para-a-ciencia" target="_blank">
+    Que belo dia para a ciência!
+    <small>Jun/18 - 3 anos de Python Floripa - Florianópolis/SC</small>
+</p>
+
+<p>
+  <a href="https://slides.com/leticiaportella/meetup-joinville" target="_blank">
+    O que você faria se não tivesse medo? 
+  </a>
+    <small>Jun/18 - Python Joinville Meetup - Joinville/SC</small>
+</p>
 
 <p>
   <a href="http://slides.com/leticiaportella/o-que-voce-faria-se-tivesse-medo#/" target="_blank">
@@ -119,6 +155,9 @@ I also have a Podcast called Pizza de Dados along with two friends.</p>
   </a>
     <small>Nov/17 - Podcast - Sudocast </small>
 </p>
+
+
+<br/>
 
 
 <h2 id="organization"> Things I helped organize</h2>
